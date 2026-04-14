@@ -1,25 +1,29 @@
-<h1 align="center">Hi 👋, I'm Stan Swirydczuk</h1>
-<h3 align="center">A student at Politechnika Gdańska</h3>
+# Hi there 👋 I'm Stanisław Świrydczuk
 
-- 🔭 I’m currently working on [King Donkey (SDL)](https://github.com/calleesto/king_donkey)
+I'm a 4th-semester Computer Science student at Gdańsk University of Technology (Politechnika Gdańska). I'm passionate about algorithms, software development, and constantly expanding my tech stack. I enjoy tackling complex problems and building practical solutions.
 
-- 🌱 I’m currently learning **C/C++**
+## 🎓 About Me
+* 💻 Currently pursuing my degree in Computer Science (Informatyka).
+* 🌎 Bilingual in Polish and English (C2 level, honed during my time at Bogle Junior High in Chandler, USA).
+* 🔭 Currently focusing on advancing my Python capabilities while brainstorming my next major, complex project in C.
 
-- 👯 One of my notable projects [Text-based Backgammon](https://github.com/calleesto/new_backgammon)
+## 🛠️ Tech Stack
+* **Languages:** C/C++ (intermediate), Python (intermediate).
+* **Web Technologies:** HTML, CSS, WordPress (advanced).
+* **Tools & Other:** Git/GitHub, Unity GameEngine (intermediate).
 
-- 🤝 Visit a website I made using Wordpress [neurolang.pl](neurolang.pl)
+## 🚀 Featured Projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/calleesto](https://github.com/calleesto)
+### 🧩 Sudoku Collision Visualizer (O(1) Validation)
+* **Tech:** Python
+* My latest original project. It's a visualizer designed to highlight and validate Sudoku puzzle collisions in real-time, utilizing a highly efficient O(1) time complexity algorithm for validation.
 
-- 📫 How to reach me **stanislaw.swirydczuk@gmail.com**
+### 🌐 Web Development & Freelance Work
+* **[Neurolang.pl](http://www.neurolang.pl)**: Full lifecycle development and deployment of an e-commerce platform using WordPress. I handled everything from hosting and domain configuration to UI customization, as well as implementing the core order and product management processes[cite: 24, 25, 26].
+* **[Focusing.com.pl](http://www.focusing.com.pl)**: Development, maintenance, and stabilization of a web-based scheduling application[cite: 27, 28, 29]. My role involved heavy debugging, refactoring legacy code left by previous developers, and implementing custom changes to both the UI and business logic[cite: 30, 31].
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF-G3TDQbw/cRTwoONGd84U_bWh3UnN0w/edit?utm_content=DAF-G3TDQbw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF-G3TDQbw/cRTwoONGd84U_bWh3UnN0w/edit?utm_content=DAF-G3TDQbw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### 🖥️ Foundational Academic Projects
+* **C/C++ & Algorithms**: A repository containing various academic projects and data structure implementations completed during my studies. These serve as documentation of my solid grasp of C/C++ fundamentals, memory management, and algorithmic problem-solving. *(Stay tuned – working on a major C project right now!)*
 
-- ⚡ Fun fact **I was born in Poland but my English is really good (lived in the USA for 3 years)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## 📫 Let's Connect!
+* 📧 Reach out to me via email: stanislaw.swirydczuk@gmaill.com

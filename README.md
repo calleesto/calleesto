@@ -19,8 +19,8 @@ I'm a 4th-semester Computer Science student at Gdańsk University of Technology 
 * My latest original project. It's a visualizer designed to highlight and validate Sudoku puzzle collisions in real-time, utilizing a highly efficient O(1) time complexity algorithm for validation.
 
 ### 🌐 Web Development & Freelance Work
-* **[Neurolang.pl](http://www.neurolang.pl)**: Full lifecycle development and deployment of an e-commerce platform using WordPress. I handled everything from hosting and domain configuration to UI customization, as well as implementing the core order and product management processes[cite: 24, 25, 26].
-* **[Focusing.com.pl](http://www.focusing.com.pl)**: Development, maintenance, and stabilization of a web-based scheduling application[cite: 27, 28, 29]. My role involved heavy debugging, refactoring legacy code left by previous developers, and implementing custom changes to both the UI and business logic[cite: 30, 31].
+* **[Neurolang.pl](http://www.neurolang.pl)**: Full lifecycle development and deployment of an e-commerce platform using WordPress. I handled everything from hosting and domain configuration to UI customization, as well as implementing the core order and product management processes.
+* **[Focusing.com.pl](http://www.focusing.com.pl)**: Development, maintenance, and stabilization of a web-based scheduling application. My role involved heavy debugging, refactoring legacy code left by previous developers, and implementing custom changes to both the UI and business logic.
 
 ### 🖥️ Foundational Academic Projects
 * **C/C++ & Algorithms**: A repository containing various academic projects and data structure implementations completed during my studies. These serve as documentation of my solid grasp of C/C++ fundamentals, memory management, and algorithmic problem-solving. *(Stay tuned – working on a major C project right now!)*

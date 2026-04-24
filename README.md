@@ -26,4 +26,4 @@ I'm a 4th-semester Computer Science student at Gdańsk University of Technology 
 * **C/C++ & Algorithms**: A repository containing various academic projects and data structure implementations completed during my studies. These serve as documentation of my solid grasp of C/C++ fundamentals, memory management, and algorithmic problem-solving. *(Stay tuned – working on a major C project right now!)*
 
 ## 📫 Let's Connect!
-* 📧 Reach out to me via email: stanislaw.swirydczuk@gmaill.com
+* 📧 Reach out to me via email: stanislaw.swirydczuk@gmail.com
